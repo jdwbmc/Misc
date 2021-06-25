@@ -1,0 +1,72 @@
+﻿EA Proposal
+Scenario:
+You work for an insurance carrier selling bowling alley insurance.  You need to expand your market to improve your profitability.  Your company decides to accomplish this by purchasing a complementary insurance carrier.  After a long search, your firm finds a carrier that specializes in private aircraft insurance.  After a time of negotiation, the two companies reach agreement on a deal.  Your task is to plan the IT part of the merger.
+
+BOST framework.
+Questions to answer:
+What are you trying to accomplish?
+   As a business?
+   As IT
+How will you accomplish this?
+What are your priorities in accomplishing this?
+What are the barriers you need to overcome?
+List a question per section.
+
+
+
+Business Architecture
+Definition: Business Architecture is developed based on individual department goals and overall business objectives. Business architecture and strategic planning is the key to planning, coordinating and implementing an organization’s business objectives. It helps in the smooth functioning of different units in an organization, both inside and outside the enterprise itself.
+
+List question to be answered:
+
+List artifacts:
+
+Provide context for lesson:
+  Business Goals:
+    Greater profitability
+    Reduced cost
+    Increased revenue
+    Improved cash flow
+    
+    
+
+
+Operations Architecture
+Definition: The IT infrastructure of an enterprise will typically comprise many different systems and platforms, often in different geographic locations. Operations architecture ensures that these systems perform as expected by centrally unifying the control of operational procedures and automating the execution of operational tasks. It also reports the performance of the IT infrastructure. The implementation of an operations architecture consists of a dedicated set of tools and processes which are designed to provide centralisation and automation.
+
+List question to be answered:
+
+List artifacts:
+
+Provide context for lesson:
+  Opportunities for process improvement
+  Reduce cost
+  Improved cash flow
+
+
+Systems Architecture
+Definition: A system architecture is the conceptual model that defines the structure, behavior, and more views of a system. An architecture description is a formal description and representation of a system, organized in a way that supports reasoning about the structures and behaviors of the system.
+
+List question to be answered:
+
+List artifacts:
+
+Provide context for lesson:
+  System consolidation for improved processes
+  Reduced cost
+  Improved cash flow
+
+
+Technology Architecture
+Definition: Technology architecture associates application components from application architecture with technology components representing software and hardware components. Its components are generally acquired in the marketplace and can be assembled and configured to constitute the enterprise’s technological infrastructure. Technology architecture provides a more concrete view of the way in which application components will be realized and deployed. It enables the migration problems that can arise between the different steps of the IS evolution path to be studied earlier. It provides a more precise means of evaluating responses to constraints (nonfunctional requirements) concerning the IS, notably by estimating hardware and network sizing needs or by setting up server or storage redundancy. 
+
+List question to be answered:
+
+List artifacts:
+
+Provide context for lesson:
+  Technology needed to support consolidated systems
+  Architecture needed
+  
+
+
